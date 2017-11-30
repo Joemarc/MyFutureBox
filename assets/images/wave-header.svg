@@ -4,9 +4,10 @@
     <title>wave-header</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="106.484582%" y1="80.4967963%" x2="-85.0431447%" y2="-17.9199653%" id="linearGradient-1">
-            <stop stop-color="#00D2FF" offset="0%"></stop>
-            <stop stop-color="#00FF8B" offset="100%"></stop>
+        <linearGradient x1="54.5785189%" y1="-75.5935827%" x2="54.2139456%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1A00B7" offset="0%"></stop>
+            <stop stop-color="#213EBE" offset="19.9423807%"></stop>
+            <stop stop-color="#30CFD0" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">

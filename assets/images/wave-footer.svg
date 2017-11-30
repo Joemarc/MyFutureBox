@@ -4,9 +4,9 @@
     <title>wave-footer</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="137.633962%" y1="100%" x2="6.8622974%" y2="-121.844783%" id="linearGradient-1">
-            <stop stop-color="#71FF9D" stop-opacity="0.799903759" offset="0%"></stop>
-            <stop stop-color="#00D2FF" offset="100%"></stop>
+        <linearGradient x1="51.231536%" y1="119.601021%" x2="52.4418056%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#1A00B7" offset="0%"></stop>
+            <stop stop-color="#30CFD0" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
