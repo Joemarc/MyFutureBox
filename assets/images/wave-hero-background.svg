@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1302px" height="493px" viewBox="0 0 1302 493" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1301px" height="466px" viewBox="0 0 1301 466" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>wave-hero-background</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="52.9028261%" y1="-14.1470688%" x2="48.860746%" y2="100%" id="linearGradient-1">
+        <linearGradient x1="50.3718781%" y1="-14.1470688%" x2="49.8540513%" y2="100%" id="linearGradient-1">
             <stop stop-color="#1A00B7" offset="0%"></stop>
             <stop stop-color="#30CFD0" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="wave-hero-background" fill-rule="nonzero">
-            <path d="M0,-1.21616026e-22 L1300,-2.84217094e-14 C1299.84369,99.0658466 1299.84369,259.045733 1300,479.93966 C939.379367,522.288692 978.893507,439.694844 650,450.952014 C321.106493,462.209185 306.589562,511.200484 0,450.952014 C1,327.508342 1,177.191004 0,-1.21616026e-22 Z" id="Wave" fill="#C4C4C4" opacity="0.15"></path>
-            <path d="M1.000768,0 L925.701254,0 L1302,0 C1302,223.960943 1302,366.849893 1302,428.66685 C1221.6052,416.744841 1147.81368,399.334739 958.281773,416.744841 C768.749862,434.154944 701.824307,503.789515 426.321988,437.77475 C242.653775,393.764907 100.880035,397.003272 1.000768,447.489845 L1.000768,0 Z" id="Wave" fill="url(#linearGradient-1)" transform="translate(651.500384, 232.828869) scale(-1, 1) translate(-651.500384, -232.828869) "></path>
+        <g id="wave-hero-background" fill-rule="nonzero" fill="url(#linearGradient-1)">
+            <path d="M0.000768,0 L924.701254,0 L1301,0 C1301,223.960943 1301,366.849893 1301,428.66685 C1220.6052,416.744841 1146.81368,399.334739 957.281773,416.744841 C767.749862,434.154944 700.824307,503.789515 425.321988,437.77475 C241.653775,393.764907 99.880035,397.003272 0.000768,447.489845 L0.000768,0 Z" id="Wave" transform="translate(650.500384, 232.828869) scale(-1, 1) translate(-650.500384, -232.828869) "></path>
         </g>
     </g>
 </svg>
